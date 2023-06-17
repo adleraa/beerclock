@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "hafvklocka_footprints_lib")(type "KiCad")(uri "${KIPRJMOD}/hafvklocka_footprints_lib.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "C:/Users/Marcus/Documents/KiCad/6.0/symbols/2022-12-31_01-51-00/footprints.pretty")(options "")(descr ""))
+)
